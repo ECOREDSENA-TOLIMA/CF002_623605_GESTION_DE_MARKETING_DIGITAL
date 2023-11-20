@@ -345,7 +345,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         p El análisis del #[i Buyer] Persona está claramente relacionado con la CX como lo afirma Pozo, José (2018). Por ejemplo, el 75% de los clientes acepta invertir más dinero para comprar en una marca que brinde una excelente experiencia de cliente. Por eso, hoy en día se invierte más dinero en plataformas que entreguen mejores experiencias en todo el proceso de compra. Pero, por otro lado, además de lo anterior, es vital poder medir y conocer los KPI (#[i Key Performance Indicators] o indicadores clave de rendimiento) de la CX, para poder conocer, gestionar y mejorar las estrategias diseñadas para el #[i Buyer] Persona.
-    .row.justify-content-center.align-items-center.mb-5
+    
+    .row.justify-content-center.align-items-center.fondo.mb-5
       .col-lg-10
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
