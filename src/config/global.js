@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Analítica de <em>Buyer</em> Persona',
     descripcionCurso:
-      'Es muy importante que las estrategias de la empresa con base en el <em>buyer</em> Persona puedan ser analizadas para observar claramente si las metas se están cumpliendo o, se deben hacer ajustes. Para ello, existen métricas y herramientas que pueden ser de utilidad para que los especialistas en mercadeo puedan desarrollar un análisis correcto sobre los procesos de creación del <em>buyer Persona.',
+      'Es importante que las estrategias de la empresa con base en el <em>buyer</em> persona puedan ser analizadas para observar si las metas se están cumpliendo o, se deben hacer ajustes. Para ello, existen métricas y herramientas que pueden ser de utilidad para que los especialistas en mercadeo puedan desarrollar un análisis correcto sobre los procesos de creación del <em>buyer</em> Persona.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -168,9 +168,9 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Analítica web',
+      termino: 'Analítica <em>web</em>',
       significado:
-        'es un grupo de técnicas que se relacionan con el análisis de información relacionada con las acciones desarrolladas por una marca en internet, desde herramientas o medios como el sitio web, las redes sociales, el correo electrónico, entre otros.',
+        'es un grupo de técnicas que se relacionan con el análisis de información relacionada con las acciones desarrolladas por una marca en internet, desde herramientas o medios como el sitio <em>web</em>, las redes sociales, el correo electrónico, entre otros.',
     },
     {
       termino: 'Comunicación estratégica',
@@ -185,7 +185,7 @@ export default {
     {
       termino: 'Ecosistema digital',
       significado:
-        'es un proceso óptimo para el posicionamiento de una idea, para dar comienzo a una campaña publicitaria o para hacer promoción de algún producto, a través de Tecnologías de la Información y la Comunicación (TIC), tales como redes sociales, correo electrónico, sitio web, blog y chat, entre otras.',
+        'es un proceso óptimo para el posicionamiento de una idea, para dar comienzo a una campaña publicitaria o para hacer promoción de algún producto, a través de Tecnologías de la Información y la Comunicación (TIC), tales como redes sociales, correo electrónico, sitio <em>web</em>, blog y chat, entre otras.',
     },
     {
       termino: 'Experiencia de cliente',
@@ -221,7 +221,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Álvarez, M. (2016). Customer Experience. <em>La fórmula del éxito para enamorar a los clientes</em>. Edición Kindle, Profit Editorial.',
+        'Álvarez, M. (2016). <em>Customer Experience</em>. <em>La fórmula del éxito para enamorar a los clientes</em>. Edición Kindle, Profit Editorial.',
       link: '',
     },
     {
@@ -231,8 +231,7 @@ export default {
     },
     {
       referencia: 'Castañeda, C. (2016). <em>Acertá</em>. ',
-      link:
-        'http://acertacomunicaciones.com/8-pasos-para-construir-una-estrategia-de-comunicacion/',
+      link: '',
     },
     {
       referencia:

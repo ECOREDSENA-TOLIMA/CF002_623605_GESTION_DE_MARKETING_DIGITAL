@@ -1,1 +1,1 @@
-module.exports = 'Analítica de <i>Buyer</i> Persona'
+module.exports = 'Analítica de Buyer Persona'

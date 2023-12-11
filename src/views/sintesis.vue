@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    p El componente formativo se enfoca en dos áreas clave: la analítica de la experiencia del cliente y el perfilamiento del comprador persona. En la primera parte, se aborda la importancia de comprender la experiencia del cliente, explorando conceptos como el mapa de experiencia, la comunicación estratégica y la interacción en el ecosistema digital. La segunda parte se centra en el perfilamiento del comprador persona, incluyendo tipos de perfiles, la creación de arquetipos, el diseño de informes específicos y la implementación de KPI con acciones de mejora. Este enfoque integral busca optimizar la comprensión del cliente y la toma de decisiones estratégicas basadas en datos.
     p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
 
     .row.justify-content-center

@@ -27,7 +27,7 @@
                     .lista-ol--cuadro__vineta
                       span 1
                     | #[b Aprender de la competencia]
-                  p Se debe elegir varios competidores para analizar sus modelos de negocio. Con esta información se puede tener una visión real de lo que los clientes desean y lo que están dispuestos a pagar. Generar preguntas como: ¿Cuáles empresas son la competencia? ¿Tienen presencia web? ¿Cuáles son las más populares? ¿Cuáles son los más parecidos a la propuesta de valor? ¿Cuál es el precio de sus productos? ¿Cómo los fidelizan? 
+                  p Se debe elegir varios competidores para analizar sus modelos de negocio. Con esta información se puede tener una visión real de lo que los clientes desean y lo que están dispuestos a pagar. Generar preguntas como: ¿Cuáles empresas son la competencia? ¿Tienen presencia #[i web]? ¿Cuáles son las más populares? ¿Cuáles son los más parecidos a la propuesta de valor? ¿Cuál es el precio de sus productos? ¿Cómo los fidelizan? 
           .row.justify-content-center.align-items-center.mb-5
             .cajon.colorpaso.p-4.mb-4
               .row
@@ -65,7 +65,7 @@
                     li
                     .lista-ol--cuadro__vineta
                       span 4
-                    | Identificar el estado actual
+                    | #[b Identificar el estado actual]
                   p Lo que sucede hoy no se debe mezclar con ideas para el futuro. Tampoco se recomienda combinar varios departamentos en uno. En una empresa grande se pueden hallar diferentes propuestas de valor e incluso modelos de negocio; y se debe solicitar a todos los departamentos que diseñen sus modelos de negocio para compararlos luego.
                 .col-lg-4
                   figure
@@ -81,7 +81,7 @@
                     li
                     .lista-ol--cuadro__vineta
                       span 5
-                    | Revisar
+                    | #[b Revisar]
                   p Se debe repasar y asegurar que cada segmento esté vinculado a una propuesta de valor y también a una fuente de ingresos. Se debe verificar que ambos lados del modelo Canvas se apoyen entre sí. Conectando toda la información de forma coherente e integrada.                
           .row.justify-content-center.align-items-center.mb-5
             .cajon.colorpaso.p-4.mb-4
@@ -91,7 +91,7 @@
                     li
                     .lista-ol--cuadro__vineta
                       span 6
-                    | Clasificar
+                    | #[b Clasificar]
                   p Se recomienda clasificar el rendimiento del modelo de negocio entre 1 y 10 para cada una de los siguientes temas: 
                   p ¿Los cambios en los costos afectan a los clientes? ¿El modelo previene su reacción? ¿El modelo de negocio se puede escalar? ¿El modelo de negocio origina ingresos frecuentes? ¿Antes de invertir, el negocio tiene ingresos lo suficientes? ¿Lo que la empresa desarrolla se puede realizar por otros? Comparado con la competencia, ¿el modelo de negocio está protegido?
                 .col-lg-4
@@ -146,7 +146,7 @@
             img(src='@/assets/curso/temas/tema2/img12.jpg', alt='Imagen decorativa')
       .row(titulo="Paso 4: Concretar la estrategia y los puntos clave")
         .col-md-12.mb-4.mb-md-0
-          p En el momento de concretar una estrategia, toda información es de utilidad, pero se deben enfocar los datos de manera que den respuesta a las preguntas realizadas durante el primer paso. Una vez obtenidas estas respuestas se debe generar una interacción entre el "[i Buyer] Persona y el producto. Señalar si el cliente puede tener desconfianza que lo separe de la propuesta comercial y encontrar las opciones que puedan llevarlo a la solución de sus necesidades. Es importante conocer fortalezas y debilidades para definir la estrategia, la Matriz DOFA puede aportar al proceso. 
+          p En el momento de concretar una estrategia, toda información es de utilidad, pero se deben enfocar los datos de manera que den respuesta a las preguntas realizadas durante el primer paso. Una vez obtenidas estas respuestas se debe generar una interacción entre el #[i Buyer] Persona y el producto. Señalar si el cliente puede tener desconfianza que lo separe de la propuesta comercial y encontrar las opciones que puedan llevarlo a la solución de sus necesidades. Es importante conocer fortalezas y debilidades para definir la estrategia, la Matriz DOFA puede aportar al proceso. 
         .col-md-12.mb-4.mb-md-0
           figure
             img(src='@/assets/curso/temas/tema2/img13.jpg', alt='Imagen decorativa')
@@ -213,7 +213,7 @@
       h2.my-5 2.2 Elaboración de arquetipos
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-        p Según Vásquez (2021), la famosa frase "Tú eres lo más importante" ha sido usada hasta el cansancio por la publicidad tradicional, pero, en la actualidad, no basta con decirlo, hay que demostrarlo. Si así fuera los clientes vivirían experiencias de marca más significativas y con un alto índice de personalización. Empresas como #[i Amazon], #[i Disney] y #[i Spotify], consiguieron personalizar la CX con bastante éxito, debido al diseño de arquetipos, pero la realidad es que existen millones de empresas en las que este tema está pendiente.
+        p Según Vásquez (2021), la famosa frase "Tú eres lo más importante" ha sido usada hasta el cansancio por la publicidad tradicional, pero, en la actualidad, no basta con decirlo, hay que demostrarlo. Si así fuera los clientes vivirían experiencias de marca más significativas y con un alto índice de personalización. Empresas como Amazon, Disney y Spotify, consiguieron personalizar la CX con bastante éxito, debido al diseño de arquetipos, pero la realidad es que existen millones de empresas en las que este tema está pendiente.
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/tema2/img18.jpg')})`}"
@@ -222,7 +222,7 @@
         p.mb-0 Es importante mencionar que el arquetipo de cliente debe ser analizado desde el punto de vista de las CX, mientras que el #[i Buyer] Persona es el cliente ideal para la marca. Por esta razón, la elaboración de arquetipos se hace necesario para las empresas.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-        p A continuación, se encuentran las sugerencias para construir un arquetipo:
+        p En el siguiente video se encuentran las sugerencias para construir un arquetipo:
     
     .row.justify-content-center.align-items-center.md-5   
       .col-lg-12(data-aos="fade-left")     
@@ -245,7 +245,7 @@
             img(src="@/assets/curso/temas/tema2/img19.svg", alt="alt")
         .col-lg-8
           p El análisis realizado sobre el #[i Buyer] Persona admite comprender a quién se le habla y cuáles son los métodos precisos y oportunos para conquistarlos. En un mundo digital repleto de información (mucha de ella considerada #[i fake news]) es vital comprender cómo captar la atención de los prospectos, cómo hacer que elijan la marca y no la competencia.
-          p Hay que establecer perfectamente cuáles son los prospectos a los que se desea cautivar, si se piensa en el embudo de ventas que precisa de la atracción de extraños, llevándolos a visitar un sitio web o #[i landing page], para convertirlos, inicialmente en prospectos, y a futuro en clientes actuales. Conquistar al prospecto perfecto es el comienzo del éxito de toda campaña de mercadeo digital,  es por esta razón que se utiliza el análisis de #[i Buyer] Persona, que permite hallar a esos “extraños” para conquistarlos, usando técnicas de conversión. En mercadeo digital se trabaja para la atracción, la conversión y luego conquista del prospecto.
+          p Hay que establecer perfectamente cuáles son los prospectos a los que se desea cautivar, si se piensa en el embudo de ventas que precisa de la atracción de extraños, llevándolos a visitar un sitio #[i web] o #[i landing page], para convertirlos, inicialmente en prospectos, y a futuro en clientes actuales. Conquistar al prospecto perfecto es el comienzo del éxito de toda campaña de mercadeo digital,  es por esta razón que se utiliza el análisis de #[i Buyer] Persona, que permite hallar a esos “extraños” para conquistarlos, usando técnicas de conversión. En mercadeo digital se trabaja para la atracción, la conversión y luego conquista del prospecto.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         p Pero, para conocer en dónde están ubicados los prospectos, se debe comenzar por entender quiénes son, lo que involucra comprender el tipo de cliente buscado: 
@@ -259,12 +259,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         p Las respuestas van a permitir la compresión sobre cómo hacer la búsqueda y la atracción de los prospectos perfectos para nutrir el embudo de ventas. Existen distintas estrategias para responder estas preguntas y normalmente se usan plataformas de analítica, de investigación de palabras claves y de escucha social. Pero, lo más importante para comenzar es la definición de quién es el cliente, lo que no se soluciona con una plataforma tecnológica sino con un proceso de “lluvia de ideas” que se llama “análisis del #[i Buying] Persona” que ayuda a representar y a modelar al potencial cliente.
-        p Una vez creado el #[i Buyer] Persona, se puede continuar con una estrategia que integre campaña publicitaria, cimentación del sitio web y contenidos digitales. En mercadeo digital, estas tres labores deben dar tiene que ser espectaculares para que se puedan lograr los objetivos pactados. Pero, hay que entender que, si no se le habla a la persona correcta, los prospectos que visiten el sitio web nunca llegarán a ser clientes actuales. Por esta razón, el equipo de mercadeo debe tener muy claro quién es el #[i Buyer] Persona para orientar los esfuerzos de publicidad, sitio web y gestión de contenidos digitales de la forma más oportuna posible.
+        p Una vez creado el #[i Buyer] Persona, se puede continuar con una estrategia que integre campaña publicitaria, cimentación del sitio #[i web] y contenidos digitales. En mercadeo digital, estas tres labores deben dar tiene que ser espectaculares para que se puedan lograr los objetivos pactados. Pero, hay que entender que, si no se le habla a la persona correcta, los prospectos que visiten el sitio #[i web] nunca llegarán a ser clientes actuales. Por esta razón, el equipo de mercadeo debe tener muy claro quién es el #[i Buyer] Persona para orientar los esfuerzos de publicidad, sitio #[i web] y gestión de contenidos digitales de la forma más oportuna posible.
     
     .cajon.color-primario.colortarj-1.p-4.mb-4
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-10
-          p Ahora bien, existen herramientas gratuitas de analítica, como, por ejemplo, #[i Google Data Studio] o #[i Google Anatytics], con las que se puede entender el perfil de los clientes reales que visitan y compran en el sitio web para luego crear el #[i Buyer] Persona. De esta manera su creación está basada en datos reales. Con estas herramientas se pueden observar puntos clave relativos a la audiencia según datos como:
+          p Ahora bien, existen herramientas gratuitas de analítica, como, por ejemplo, Google Data Studio o Google Anatytics, con las que se puede entender el perfil de los clientes reales que visitan y compran en el sitio #[i web] para luego crear el #[i Buyer] Persona. De esta manera su creación está basada en datos reales. Con estas herramientas se pueden observar puntos clave relativos a la audiencia según datos como:
         .row.justify-content-center.align-items-center
           .col-lg-10
             .row.align-items-center              
@@ -333,7 +333,7 @@
                           h4.mb-1 Retención y segmentos
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        p Estas herramientas entregan una plantilla con los datos hallados, que en diseño, puede ser muy parecida a una infografía, es descriptiva y se puede personalizar el texto para añadir observaciones sobre la información y, obviamente, crear los perfiles de clientes. Estos reportes o informes, posteriormente servirán para la creación del #[i Buyer] Persona. Incluso, se puede deducir cuáles con las frases y palabras clave usadas para la búsqueda en Google y con ello, configurar y administrar campañas de Google Ads y SEO. De esta forma, y tras buscar en Google, se puede lograr que el sitio web le brinde información que pueda resolver sus necesidades y, al invitarlo a visitar el sitio, se puede continuar con la conversión. El objetivo es atraer a ese “extraño” para convertirlo en cliente actual (Beltrán, Ledesma, & Parrales, 2019).
+        p Estas herramientas entregan una plantilla con los datos hallados, que en diseño, puede ser muy parecida a una infografía, es descriptiva y se puede personalizar el texto para añadir observaciones sobre la información y, obviamente, crear los perfiles de clientes. Estos reportes o informes, posteriormente servirán para la creación del #[i Buyer] Persona. Incluso, se puede deducir cuáles con las frases y palabras clave usadas para la búsqueda en Google y con ello, configurar y administrar campañas de Google Ads y SEO. De esta forma, y tras buscar en Google, se puede lograr que el sitio #[i web] le brinde información que pueda resolver sus necesidades y, al invitarlo a visitar el sitio, se puede continuar con la conversión. El objetivo es atraer a ese “extraño” para convertirlo en cliente actual (Beltrán, Ledesma, & Parrales, 2019).
       .col-lg-10
         figure
           img(src="@/assets/curso/temas/tema2/img28.jpg", alt="Imagen decorativa")
@@ -357,7 +357,7 @@
             figure
               img(src="@/assets/curso/temas/tema2/img29.jpg", alt="Imagen decorativa")
       .col-lg-10
-        p Hoy en día, la diferencia competitiva no se logra con estrategias de precio, de producto a través de la publicidad;  la diferencia competitiva se logra con una excelente estrategia de experiencia de cliente, porque así se logra que el consumidor se involucre con la marca y esté más cercano a ella. Por eso, las empresas que logren generar CX significativas con los clientes podrán alcanzar ventajas competitivas relevantes. Entonces, es fundamental focalizarse en la misión de la CX ya que puede traer beneficios como por ejemplo:
+        p Hoy en día, la diferencia competitiva no se logra con estrategias de precio, de producto a través de la publicidad;  la diferencia competitiva se logra con una excelente estrategia de experiencia de cliente, porque así se logra que el consumidor se involucre con la marca y esté más cercano a ella. Por eso, las empresas que logren generar CX significativas con los clientes podrán alcanzar ventajas competitivas relevantes. Entonces, es fundamental focalizarse en la misión de la CX ya que puede traer beneficios, como por ejemplo:
       .col-lg-10
         .cajon.color-secundario.p-4.mb-4
           .row.justify-content-center.align-items-center.mb-5
@@ -491,7 +491,7 @@
                 img(src='@/assets/curso/temas/tema2/img45.jpg', alt='Imagen decorativa')
           .row(numero="10" titulo="Adoptar una plataforma omnicanal")
             .col-md-6.mb-4.mb-md-0
-              p Estas plataformas son una tecnología que incluye los medios disponibles para contactarse con el cliente y hacer que la interacción sea más efectiva y clara, lo que sirve para lograr una CX positiva. Esta estrategia se puede desarrollar a través de agentes digitales que asesoran a la empresa para que el contacto con los prospectos o clientes sea el mejor a través de canales como el correo electrónico, las redes sociales, el sitio web, etc., de tal forma que el servicio, la atención, la promoción y la resolución de problemas sean más rápidos y efectivos para el cliente.
+              p Estas plataformas son una tecnología que incluye los medios disponibles para contactarse con el cliente y hacer que la interacción sea más efectiva y clara, lo que sirve para lograr una CX positiva. Esta estrategia se puede desarrollar a través de agentes digitales que asesoran a la empresa para que el contacto con los prospectos o clientes sea el mejor a través de canales como el correo electrónico, las redes sociales, el sitio #[i web], etc., de tal forma que el servicio, la atención, la promoción y la resolución de problemas sean más rápidos y efectivos para el cliente.
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema2/img46.jpg', alt='Imagen decorativa')
