@@ -13,7 +13,7 @@
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="Paso 1: Definir las necesidades")
         .col-md-12.mb-4.mb-md-0
-          p Se debe saber qué se requiere para definir al cliente ideal. Quien tiene la información, tiene el poder,  por eso, mientras más datos se recopilen es mejor, porque se podrá definir las necesidades del #[i Buyer] Persona. Se deben analizar datos generales de la persona, además de datos más personales,  como por ejemplo los que se encuentran en el siguiente recurso:
+          p Se debe saber qué se requiere para definir al cliente ideal. Quien tiene la información, tiene el poder,  por eso, mientras más datos se recopilen es mejor, porque se podrá definir las necesidades del #[i Buyer] Persona. Se deben analizar datos generales de la persona, además de datos más personales,  como por ejemplo los que se encuentran seguidamente:
           .row.justify-content-center.align-items-center.mb-5
             .cajon.colorpaso.p-4.mb-4
               .row
@@ -139,7 +139,7 @@
       
       .row(titulo="Paso 3: Construir el <em>Buyer</em> Persona")
         .col-md-12.mb-4.mb-md-0
-          p Se debe diseñar de manera clara y práctica un retrato ficticio del cliente ideal, que se entienda por parte del equipo y el resto de empleados. Se le debe dar nombre y exponer la información ordenadamente, determinando con mucha claridad cómo el #[i Buyer] Persona se mueve a través del Embudo de Conversión. 
+          p Se debe diseñar de manera clara y práctica un retrato ficticio del cliente ideal, que se entienda por parte del equipo y el resto de empleados. Se le debe dar nombre y exponer la información ordenadamente, determinando con mucha claridad cómo el #[i Buyer] Persona se mueve a través del embudo de conversión. 
           p El Embudo de Conversión es el viaje realizado por el cliente desde Internet, hasta llegar a la acción de compra.
         .col-md-12.mb-4.mb-md-0
           figure
@@ -228,7 +228,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video          
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/RSOOAtKsTOM" title="Construcción de un arquetipo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
     Separador
     .row
       .col-xl-12       

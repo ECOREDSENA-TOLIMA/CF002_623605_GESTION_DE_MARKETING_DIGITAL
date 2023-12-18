@@ -185,7 +185,7 @@ export default {
     {
       termino: 'Ecosistema digital',
       significado:
-        'es un proceso óptimo para el posicionamiento de una idea, para dar comienzo a una campaña publicitaria o para hacer promoción de algún producto, a través de Tecnologías de la Información y la Comunicación (TIC), tales como redes sociales, correo electrónico, sitio <em>web</em>, blog y chat, entre otras.',
+        'es un proceso óptimo para el posicionamiento de una idea, para dar comienzo a una campaña publicitaria o para hacer promoción de algún producto, a través de Tecnologías de la Información y la Comunicación (TIC), tales como redes sociales, correo electrónico, sitio <em>web</em>, <em>blog</em> y <em>chat, entre otras.',
     },
     {
       termino: 'Experiencia de cliente',
@@ -231,7 +231,8 @@ export default {
     },
     {
       referencia: 'Castañeda, C. (2016). <em>Acertá</em>. ',
-      link: '',
+      link:
+        'http://acertacomunicaciones.com/8-pasos-para-construir-una-estrategia-de-comunicacion/',
     },
     {
       referencia:
@@ -280,20 +281,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Lizeth Daniela Reinoso Diaz',
-          cargo: 'Experta temática',
-          centro: 'Regional Tolima. Centro Agropecuario La Granja',
+          nombre: 'Samuel Pinilla Hurtado',
+          cargo: 'Experto Temático',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios ',
         },
         {
-          nombre: 'Oscar Absalón Guevara',
-          cargo: 'Diseñador instruccional',
-          centro:
-            'Regional Santander. Centro de la Industria, la Empresa y los Servicios – CIES',
-        },
-        {
-          nombre: 'Ana Catalina Córdoba Sus',
-          cargo: 'Asesora metodológica',
-          centro: 'Regional Distrito Capital. Centro de Diseño y Metrología',
+          nombre: 'Adriana López',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
@@ -302,18 +297,18 @@ export default {
             'Regional Santander - Centro Industrial del Diseño y la Manufactura ',
         },
         {
-          nombre: 'Julia Isabel Roberto',
-          cargo: 'Correctora de estilo',
-          centro: 'egional Distrito Capital. Centro de Diseño y Metrología',
+          nombre: 'Jhon Jairo Rodríguez Pérez',
+          cargo: 'Corrector de Estilo',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
-          nombre: 'Humberto Arias Díaz',
-          cargo: 'Diseñador instruccional',
+          nombre: 'Juan Gilberto Giraldo Cortes',
+          cargo: 'Diseñador Instruccional',
           centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Maria Inés Machado López',
-          cargo: 'Metodóloga',
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
+          cargo: 'Asesora Metodológica',
           centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
       ],
@@ -322,8 +317,8 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Yobanni Penagos',
-          cargo: 'Diseñador web',
+          nombre: 'Oscar Iván Uribe Ortiz',
+          cargo: 'Diseñador Web',
           centro: 'Regional Tolima  Centro de Comercio y Servicios',
         },
         {
@@ -337,13 +332,23 @@ export default {
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animador y Productor Audiovisual',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
           nombre: 'Nelson Iván Vera Briceño',
-          cargo: 'Producción audiovisual',
+          cargo: 'Animador y Productor Audiovisual',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Oleg Litvin',
-          cargo: 'Animador y Producción audiovisual',
+          cargo: 'Animador y Productor Audiovisual',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Veimar Celis Melendez',
+          cargo: 'Actividad Didáctica',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
@@ -352,13 +357,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Mauricio Oviedo',
-          cargo: 'Validación y vinculación en plataforma LMS',
+          nombre: 'Javier Mauricio Oviedo',
+          cargo: 'Validación y Vnculación en Plataforma LMS',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gilberto Naranjo Farfán',
-          cargo: 'Validación de contenidos accesibles',
+          cargo: 'Validación de Contenidos Accesibles',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
