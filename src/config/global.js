@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Analítica de <em>Buyer</em> Persona',
     descripcionCurso:
-      'Es importante que las estrategias de la empresa con base en el <em>buyer</em> persona puedan ser analizadas para observar si las metas se están cumpliendo o, se deben hacer ajustes. Para ello, existen métricas y herramientas que pueden ser de utilidad para que los especialistas en mercadeo puedan desarrollar un análisis correcto sobre los procesos de creación del <em>buyer</em> Persona.',
+      'Es importante que las estrategias de la empresa con base en el <em>buyer</em> persona puedan ser analizadas para observar si las metas se están cumpliendo, se deben hacer ajustes. Para ello, existen métricas y herramientas que pueden ser de utilidad para que los especialistas en mercadeo puedan desarrollar un análisis correcto sobre los procesos de creación del <em>buyer</em> persona.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -289,6 +289,11 @@ export default {
           nombre: 'Adriana López',
           cargo: 'Diseñadora Instruccional',
           centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Asesora Metodológica',
+          centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',

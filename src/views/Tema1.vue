@@ -18,11 +18,11 @@
         p La experiencia de cliente es la imagen que un cliente posee de las interacciones vividas con una marca. Por eso, las interacciones se pueden producir en distintos momentos de la transacción comercial, como, por ejemplo:
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12.desktop(data-aos="zoom-in")
-        figure
-          img(src='@/assets/curso/temas/tema1/img2.svg', alt='')
+        figure        
+          img(src='@/assets/curso/temas/tema1/img2.svg', alt='Se revelan 5 preguntas: 1- ¿Qué muestra el análisis DOFA? 2- ¿En qué áreas se encuentra y en qué áreas desea estar la empresa? 3- ¿Hay recursos suficientes para lograr los objetivos trazados? 4- ¿Los objetivos son realistas y se pueden alcanzar? 5- ¿Temporalmente cuál es el límite para alcanzarlos? ')
     .col-lg-12.movil(data-aos="zoom-in")
       figure
-        img(src='@/assets/curso/temas/tema1/img2_1.svg', alt='')
+        img(src='@/assets/curso/temas/tema1/img2_1.svg', alt='Se revelan 5 preguntas: 1- ¿Qué muestra el análisis DOFA? 2- ¿En qué áreas se encuentra y en qué áreas desea estar la empresa? 3- ¿Hay recursos suficientes para lograr los objetivos trazados? 4- ¿Los objetivos son realistas y se pueden alcanzar? 5- ¿Temporalmente cuál es el límite para alcanzarlos? ')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="zoom-in-right")
@@ -65,7 +65,7 @@
           h3.mb-0 Los pilares de la Experiencia de Cliente
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-        p Para desarrollar un trabajo que logre beneficios para la marca es primordial tener claros los momentos en los que se apoya el CX. Una empresa tiene que ser precisa en su estrategia, consintiendo que dentro de ella se reconozcan algunas características claves como se pueden identificar a continuación::
+        p Para desarrollar un trabajo que logre beneficios para la marca es primordial tener claros los momentos en los que se apoya el CX. Una empresa tiene que ser precisa en su estrategia, consintiendo que dentro de ella se reconozcan algunas características claves como se pueden identificar a continuación:
     
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="Mantener una identidad única")
@@ -108,7 +108,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         p Se trata de una representación visual de la experiencia vivida por el cliente con la marca. Se diseña a través de imágenes que muestran una historia sobre cómo un cliente se va moviendo a lo largo de cada etapa o momento donde interactuó con la marca y la experiencia que tuvo en cada una. Tiene que contener los momentos o puntos de contacto y los momentos de la verdad; así como también, las posibles emociones del cliente (frustración, confusión, felicidad), y las acciones que la marca desee que realice el cliente.
-        p Su diseño debe ser personalizado al contexto empresarial, por lo que no existe un formato único. Se puede diseñar en algún #[i software] especializado como Microsoft Visio, Illustrator, CorelDraw, PowerPoint o Word. Aunque también existen plantillas o herramientas digitales para poderlas diligenciar y personalizar, como por ejemplo Gliffy (gratuita y de pago), UXPressia (grauita y de pago), Smaply (de pago), entre otras. A continuación, se presentan en las siguientes figuras dos ejemplos de diseño de mapa de CX:
+        p Su diseño debe ser personalizado al contexto empresarial, por lo que no existe un formato único. Se puede diseñar en algún #[i software] especializado como Microsoft Visio, Illustrator, CorelDraw, PowerPoint o Word. Aunque también existen plantillas o herramientas digitales para poderlas diligenciar y personalizar, como por ejemplo #[i Gliffy] (gratuita y de pago), #[i UXPressia] (grauita y de pago), #[i Smaply] (de pago), entre otras. A continuación, se presentan en las siguientes figuras dos ejemplos de diseño de mapa de CX:
     
     .titulo-sexto.color-acento-contenido.offset-1
       h5 Figura 1.
@@ -117,11 +117,11 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.desktop
         figure
-          img(src='@/assets/curso/temas/tema1/img14.svg', alt='Se revelan 5 preguntas: 1- ¿Qué muestra el análisis DOFA? 2- ¿En qué áreas se encuentra y en qué áreas desea estar la empresa? 3- ¿Hay recursos suficientes para lograr los objetivos trazados?  4- ¿Los objetivos son realistas y se pueden alcanzar? 5- ¿Temporalmente cuál es el límite para alcanzarlos?') 
+          img(src='@/assets/curso/temas/tema1/img14.svg', alt='Alrededor del SOA, se presentan 4 grandes áreas: Sistema, Plataforma, Procesos y Personas. Estas se integran de la siguiente forma: Sistema, es la entrada del proceso, de donde se canaliza mediante; La Plataforma: que contiene el Servicio, y la Práctica Los Procesos: correspondiente con la integración y la Arquitectura. Y finaliza en las Personas: o los clientes que reciben el servicio.') 
           figcaption Nota. 5 ejemplos de cómo crear un #[i Customer Journey] Map efectivo. Rojas (2017).
       .col-lg-12.movil
         figure
-          img(src="@/assets/curso/temas/tema1/img14_1.svg", alt="Se revelan 5 preguntas: 1- ¿Qué muestra el análisis DOFA? 2- ¿En qué áreas se encuentra y en qué áreas desea estar la empresa? 3- ¿Hay recursos suficientes para lograr los objetivos trazados?  4- ¿Los objetivos son realistas y se pueden alcanzar? 5- ¿Temporalmente cuál es el límite para alcanzarlos?")
+          img(src="@/assets/curso/temas/tema1/img14_1.svg", alt="Alrededor del SOA, se presentan 4 grandes áreas: Sistema, Plataforma, Procesos y Personas. Estas se integran de la siguiente forma: Sistema, es la entrada del proceso, de donde se canaliza mediante; La Plataforma: que contiene el Servicio, y la Práctica Los Procesos: correspondiente con la integración y la Arquitectura. Y finaliza en las Personas: o los clientes que reciben el servicio.")
           figcaption Nota. 5 ejemplos de cómo crear un #[i Customer Journey] Map efectivo. Rojas (2017).
     
     .titulo-sexto.color-acento-contenido.offset-1
@@ -131,11 +131,11 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.desktop
         figure
-          img(src='@/assets/curso/temas/tema1/img15.svg', alt='Alrededor del SOA, se presentan 4 grandes áreas: Sistema, Plataforma, Procesos y Personas. Estas se integran de la siguiente forma: Sistema, es la entrada del proceso, de donde se canaliza mediante; La Plataforma: que contiene el Servicio, y la Práctica Los Procesos: correspondiente con la integración y la Arquitectura. Y finaliza en las Personas: o los clientes que reciben el servicio.')
+          img(src='@/assets/curso/temas/tema1/img15.svg', alt='Journey: Visita a un supermercado Leche Pre ¿Y la leche? No hay leche en la nevera Supermercado Voy al supermercado Cojo un carro Durante Recorro los pasillos Hay muchos productos Leche Localizo mi producto Post Me llevo la leche Pongo mi elección en mi  carrito Pago, compruebo mi ticket y me voy')
           figcaption Nota. 5 ejemplos de cómo crear un #[i Customer Journey] Map efectivo. Rojas (2017).
       .col-lg-12.movil
         figure
-          img(src="@/assets/curso/temas/tema1/img15_1.svg", alt="Alrededor del SOA, se presentan 4 grandes áreas: Sistema, Plataforma, Procesos y Personas. Estas se integran de la siguiente forma: Sistema, es la entrada del proceso, de donde se canaliza mediante; La Plataforma: que contiene el Servicio, y la Práctica Los Procesos: correspondiente con la integración y la Arquitectura. Y finaliza en las Personas: o los clientes que reciben el servicio.")
+          img(src="@/assets/curso/temas/tema1/img15_1.svg", alt="Journey: Visita a un supermercado Leche Pre ¿Y la leche? No hay leche en la nevera Supermercado Voy al supermercado Cojo un carro Durante Recorro los pasillos Hay muchos productos Leche Localizo mi producto Post Me llevo la leche Pongo mi elección en mi  carrito Pago, compruebo mi ticket y me voy")
           figcaption Nota. 5 ejemplos de cómo crear un #[i Customer Journey] Map efectivo. Rojas (2017).
 
     .row.justify-content-center.align-items-center.mb-5
@@ -191,7 +191,7 @@
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema1/img22.svg' alt='AvatarTop')
           .col-12
-            p.text-center Identificar y perfeccionar los Momentos de verdad (MoT) en la Experiencia del usuario (UX).
+            p.text-center Identificar y perfeccionar los Momentos de verdad (MoT) en la experiencia del usuario (UX).
       .tarjeta.colortarj-1.p-4
         .row.justify-content-center.mb-3
           .col-8
@@ -383,7 +383,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
               h5 Ponerse en el lugar del cliente
-              p La satisfacción del cliente se basa en la empatía. Si el cliente se ha contactado con la marca es porque requiere que soluciones algún problema o necesidad de forma rápida y efectiva. 
+              p La satisfacción del cliente se basa en la empatía. Si el cliente se ha contactado con la marca, es porque requiere que soluciones, algún problema o necesidad de forma rápida y efectiva. 
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img43.png')})`}")
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.arriba.color-secundario.tarjmovil(@mouseover="indicadorTarjetaSlide = false")
@@ -391,7 +391,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
               h5 Usar un lenguaje fácil de entender
-              p Se requiere de tener claridad con el cliente. El lenguaje debe ser fácil de entender y al mismo tiempo, empático. De esta forma, se pueden crear enlaces más fuertes y leales con los clientes.
+              p Se requiere tener claridad con el cliente. El lenguaje debe ser fácil de entender, y al mismo tiempo, empático. De esta forma, se pueden crear enlaces más fuertes y leales con los clientes.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img44.png')})`}")
     
     .row.justify-content-center.align-items-center.mb-5
@@ -404,11 +404,11 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.desktop
         figure
-          img(src='@/assets/curso/temas/tema1/img45.svg', alt='PENDIENTE TEXTO ALTERNATIVO')
+          img(src='@/assets/curso/temas/tema1/img45.svg', alt='En la figura 3 se muestran los 8 pasos para construir una estrategia de comunicación, inicia con el análisis y termina con el monitoreo y evaluación.')
           figcaption Nota. Imagen adaptada de 8 pasos para construir una Estrategia de Comunicación. Viñas (2016).
       .col-lg-12.movil
         figure
-          img(src="@/assets/curso/temas/tema1/img45_1.svg", alt="PENDIENTE TEXTO ALTERNATIVO")
+          img(src="@/assets/curso/temas/tema1/img45_1.svg", alt="En la figura 3 se muestran los 8 pasos para construir una estrategia de comunicación, inicia con el análisis y termina con el monitoreo y evaluación.")
           figcaption Nota. Imagen adaptada de 8 pasos para construir una Estrategia de Comunicación. Viñas (2016).
     
     .tarjeta.tarjeta--azul.colorcol1.p-4.mb-5
@@ -416,7 +416,7 @@
         .row(titulo="Paso 1")
           .col-md-6.mb-4.mb-md-0
             h4 Análisis del contexto
-            p Se debe desarrollar un análisis sobre los factores políticos, socioculturales, económicos, ambientales, legales y tecnológicos son relación al impacto que pueden tener en el negocio. Para esto se puede usar el modelo PESTEL, que si está bien construido permite prever cómo se va a mover el mercado para planear las acciones de mercadeo que se pueden desarrollar.
+            p Se debe desarrollar un análisis sobre los factores políticos, socioculturales, económicos, ambientales, legales y tecnológicos que tienen relación al impacto que pueden tener en el negocio. Para esto se puede usar el modelo PESTEL, que si está bien construido, permite prever cómo se va a mover el mercado para planear las acciones de mercadeo que se pueden desarrollar.
           .col-md-6
             figure
               img(src="@/assets/curso/temas/tema1/img46.jpg", alt="Imagen decorativa")

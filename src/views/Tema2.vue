@@ -92,8 +92,8 @@
                     .lista-ol--cuadro__vineta
                       span 6
                     | #[b Clasificar]
-                  p Se recomienda clasificar el rendimiento del modelo de negocio entre 1 y 10 para cada una de los siguientes temas: 
-                  p ¿Los cambios en los costos afectan a los clientes? ¿El modelo previene su reacción? ¿El modelo de negocio se puede escalar? ¿El modelo de negocio origina ingresos frecuentes? ¿Antes de invertir, el negocio tiene ingresos lo suficientes? ¿Lo que la empresa desarrolla se puede realizar por otros? Comparado con la competencia, ¿el modelo de negocio está protegido?
+                  p Se recomienda clasificar el rendimiento del modelo de negocio entre 1 y 10 para cada uno de los siguientes temas: 
+                  p ¿Los cambios en los costos afectan a los clientes? ¿El modelo previene su reacción? ¿El modelo de negocio se puede escalar? ¿El modelo de negocio origina ingresos frecuentes? ¿Antes de invertir, el negocio tiene ingresos los suficientes? ¿Lo que la empresa desarrolla se puede realizar por otros? Comparado con la competencia, ¿el modelo de negocio está protegido?
                 .col-lg-4
                   figure
                     img(src='@/assets/curso/temas/tema2/img6.svg', alt='Imagen decorativa')
@@ -103,40 +103,15 @@
           p Se debe comenzar con la recopilación (#[i online y offline]) de todo lo que se pueda sobre los clientes.
         .col-md-12
           figure
-            img(src='@/assets/curso/temas/tema2/img7.svg', alt='Imagen decorativa')
-          hr
-          .row.justify-content-center.align-items-center.mb-5
-            .col-lg-1
-              figure
-                img(src='@/assets/curso/temas/tema2/img8.svg', alt='Imagen decorativa')
-            .col-lg-11
-              h4 Productos estrella
-              p Aquellos que están en crecimiento continuo y tiene una alta participación en el mercado; requieren de una elevada inversión.
-          hr
-          .row.justify-content-center.align-items-center.mb-5
-            .col-lg-1
-              figure
-                img(src='@/assets/curso/temas/tema2/img9.svg', alt='Imagen decorativa')
-            .col-lg-11
-              h4 Productos Incógnita o interrogación
-              p Son productos nuevos, posiblemente innovadores, necesitan de una altísima inversión, teniendo un alto riesgo de fracaso, pero, de tener éxito, se convierten en productos estrella y luego vacas lecheras.
-          hr
-          .row.justify-content-center.align-items-center.mb-5
-            .col-lg-1
-              figure
-                img(src='@/assets/curso/temas/tema2/img10.svg', alt='Imagen decorativa')
-            .col-lg-11
-              h4 Productos vaca lechera
-              p Tienen alta participación en el mercado, aunque su crecimiento al tope, porque llegaron a una fase de madurez donde permanecen, debido a ello son los productos qué más recursos generan, porque no requieren de una alta inversión.
-          hr
-          .row.justify-content-center.align-items-center.mb-5
-            .col-lg-1
-              figure
-                img(src='@/assets/curso/temas/tema2/img11.svg', alt='Imagen decorativa')
-            .col-lg-11
-              h4 Productos perro
-              p Poca participación en el mercado porque no tienen crecimiento. Usualmente son productos que llegaron al final del ciclo de vida. Se debe tomar la decisión de retirarlos del mercado o de inyectarles algún cambio estratégico (nuevo empaque, distintivo visual, sabor, olor, tecnología, etc.).
-      
+            img(src='@/assets/curso/temas/tema2/img7.jpg', alt='Imagen decorativa')
+          .row.justify-content-center.align-items-center.mb-5.mt-4
+            .cajon.colorpaso.p-4.mb-4
+              p #[b Consultar todas las fuentes]: a través de internet o también en tiendas o sedes presenciales. En las bases de datos se pueden encontrar más datos de importancia y detalles sobre la situación personal de los clientes. Ayuda a hacer una mejor definición de los individuos que se interesan en el producto.
+              p #[b Contrastar con el equipo de ventas]: el equipo de mercadeo debe estar en contacto con el departamento de ventas para que el proyecto funcione de forma óptima. Deben estar encadenados y con la mira puesta en el mismo objetivo. Es simple, el contacto humano entrega un importante valor agregado, por encima de todos los 
+              p #[b #[i Master] en #[i traffic marketing]]: SEO, SEM, atracción y contenidos. Áreas en las que los empleados (estrategas o especialistas de mercadeo) deber ser expertos. Liderar el desarrollo de estrategias que deben dar respuesta a los indicadores y análisis generados, responder con lo que el cliente espera. demás datos que se pueda obtener.
+              p #[b Buscar externamente]: también se pueden obtener datos de otras fuentes externas como grupos de LinkedIn o demás redes sociales, incluso #[i blogs], #[i webinars] o demás recursos digitales donde pueda pasar más tiempo el cliente. Si la empresa es nueva y aún no posee clientes, se sugiere visitar el sitio #[i web], redes sociales y blog de la competencia para hacer una investigación sobre las personas que en ellas participa. Es importante apuntar qué desean, qué marcas o personas siguen y qué comparten con sus contactos.
+
+
       .row(titulo="Paso 3: Construir el <em>Buyer</em> Persona")
         .col-md-12.mb-4.mb-md-0
           p Se debe diseñar de manera clara y práctica un retrato ficticio del cliente ideal, que se entienda por parte del equipo y el resto de empleados. Se le debe dar nombre y exponer la información ordenadamente, determinando con mucha claridad cómo el #[i Buyer] Persona se mueve a través del embudo de conversión. 
@@ -252,10 +227,10 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.desktop
         figure
-          img(src="@/assets/curso/temas/tema2/img20.svg", alt="alt")
+          img(src="@/assets/curso/temas/tema2/img20.svg", alt="¿Quién es? ¿Dónde está? ¿Qué dice? ¿Qué desea? ¿Qué no le gusta? ¿Cuál es su preocupación? ¿Su insatisfacción? ¿Qué contenidos usa?")
       .col-lg-10.movil
         figure
-          img(src="@/assets/curso/temas/tema2/img20_1.svg", alt="alt")
+          img(src="@/assets/curso/temas/tema2/img20_1.svg", alt="¿Quién es? ¿Dónde está? ¿Qué dice? ¿Qué desea? ¿Qué no le gusta? ¿Cuál es su preocupación? ¿Su insatisfacción? ¿Qué contenidos usa?")
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         p Las respuestas van a permitir la compresión sobre cómo hacer la búsqueda y la atracción de los prospectos perfectos para nutrir el embudo de ventas. Existen distintas estrategias para responder estas preguntas y normalmente se usan plataformas de analítica, de investigación de palabras claves y de escucha social. Pero, lo más importante para comenzar es la definición de quién es el cliente, lo que no se soluciona con una plataforma tecnológica sino con un proceso de “lluvia de ideas” que se llama “análisis del #[i Buying] Persona” que ayuda a representar y a modelar al potencial cliente.
@@ -461,7 +436,7 @@
                 img(src='@/assets/curso/temas/tema2/img40.jpg', alt='Imagen decorativa')
           .row(numero="5" titulo="Invierte en tecnología")
             .col-md-6.mb-4.mb-md-0
-              p El uso de nuevas tecnologías ayuda a mejorar las relaciones con el cliente. Por eso, con esta inversión se hace posible la optimización en el funcionamiento de la empresa y la mejoría en la resolución de demandas, además de poseer particularidades que le admiten mejorar CX y el servicio al cliente. Por lo tanto, se sugiere invertir en tecnología, en especial, si la marca está atendiendo #[i Millennials], #[i Centennials] o individuos de la generación Z, porque son muy exigentes en relación con la eficiencia y la rapidez de las interacciones
+              p El uso de nuevas tecnologías ayuda a mejorar las relaciones con el cliente. Por eso, con esta inversión se hace posible la optimización en el funcionamiento de la empresa y la mejoría en la resolución de demandas, además de poseer particularidades que le admiten mejorar CX y el servicio al cliente. Por lo tanto, se sugiere invertir en tecnología, en especial, si la marca está atendiendo #[i Millennials], #[i Centennials] o individuos de la generación Z, porque son muy exigentes en relación con la eficiencia y la rapidez de las interacciones.
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema2/img41.jpg', alt='Imagen decorativa')
