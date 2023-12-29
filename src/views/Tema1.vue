@@ -414,28 +414,28 @@
     .tarjeta.tarjeta--azul.colorcol1.p-4.mb-5
       PasosB.color-acento-contenido
         .row(titulo="Paso 1")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Análisis del contexto
             p Se debe desarrollar un análisis sobre los factores políticos, socioculturales, económicos, ambientales, legales y tecnológicos que tienen relación al impacto que pueden tener en el negocio. Para esto se puede usar el modelo PESTEL, que si está bien construido, permite prever cómo se va a mover el mercado para planear las acciones de mercadeo que se pueden desarrollar.
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src="@/assets/curso/temas/tema1/img46.jpg", alt="Imagen decorativa")
         .row(titulo="Paso 2")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Modelo de Comunicación
             p Con base en el contexto empresarial, se deben establecer los protocolos de comunicación para tomar decisiones, tener claro cómo funciona la resolución de problemas, la promoción de transparencia, la gobernanza, la rendición de cuentas y otros que pueden variar dependiendo del rótulo del negocio. Para que el protocolo sea funcional tiene que ser simple, debe transmitir cómo funciona la comunicación al interior del negocio y debe instaurar tiempos.
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src="@/assets/curso/temas/tema1/img47.jpg", alt="Imagen decorativa")
         .row(titulo="Paso 3")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Roles y Responsabilidades
             p Al establecer el modelo de comunicación, se hace necesaria una asignación de funciones al equipo interdisciplinario para que trabajen en el proceso de comunicaciones. Por ejemplo, un individuo que puede manejar todos los aspectos técnicos del negocio, pero si no tiene carisma, es mejor no elegirlo para esta función. Pese a que es la persona que mejor analiza y explica la situación, elegirlo como vocero sería un error. Lo mejor es que acompañe o asesore a quien se encargue de esta labor.
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src="@/assets/curso/temas/tema1/img48.jpg", alt="Imagen decorativa")
         .row(titulo="Paso 4")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Audiencias y Públicos
             p “Audiencia” hace referencia a aquellos individuos que estarán expuestos a los medios de comunicación usados por la marca; mientras que el “Público” es el cliente objetivo específico al que se desea informar y que se interesa por la empresa, siendo muy importante porque posee la peculiaridad de participar de manera frecuente en redes sociales. Debe ser clasificado según:
             ol.lista-ol
@@ -450,35 +450,35 @@
                 | Sinergias comunicacionales. 
             p Siempre se debe recordar que esto tiene que investigarse, o sea, que no se inventen datos.
 
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src="@/assets/curso/temas/tema1/img49.jpg", alt="Imagen decorativa")
         .row(titulo="Paso 5")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Lineamientos
             p Se refiere a los rasgos frecuentes y primordiales que admiten la definición de una directriz o un plan que va a ayudar al mejoramiento de la reputación empresarial; no confundir con los objetivos de operaciones. Por ejemplo, un lineamiento puede ser certificar que los inversionistas sepan sobre las ventajas de trabajar con la empresa; y un objetivo expone cómo conseguir ese lineamiento en marcos de acción desarrollados a corto plazo.
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src="@/assets/curso/temas/tema1/img50.jpg", alt="Imagen decorativa")
         .row(titulo="Paso 6")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Resultados
             p Instaurar los objetivos de forma cuantificable, tanto en cantidad como calidad; esto es primordial porque así se pueden medir los impactos positivos o negativos que la marca va logrando. Estos resultados se deben alinear con los objetivos de la marca y provienen de lo cometido en la fase de lineamientos.
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src="@/assets/curso/temas/tema1/img51.jpg", alt="Imagen decorativa")
         .row(titulo="Paso 7")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Tácticas y Acciones
             p Esta es una etapa operativa de la estrategia y se centra en los planes de comunicación, que sujetarán los objetivos de operaciones para lograr los lineamientos comunicacionales. Estos planes deben ser desarrollados cada año para actualizar el contexto e introducir los nuevos medios comunicacionales que la empresa vaya eligiendo. Por otro lado, se deben enfocar en la constante información, en establecer diálogos vinculantes y disminuir los riesgos.
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src="@/assets/curso/temas/tema1/img52.jpg", alt="Imagen decorativa")
         .row(titulo="Paso 8")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Monitoreo y Evaluación
             p Es el método y las herramientas que se usarán para hacer medición sobre el impacto de cada acción de comunicación. Es vital no variar el método porque de esta forma se puede hacer comparación del progreso. Además, con los indicadores hallados se puede saber cuándo reorientar las acciones comunicacionales y establecer si se alcanzaron los resultados trazados.
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src="@/assets/curso/temas/tema1/img53.jpg", alt="Imagen decorativa")
     Separador
