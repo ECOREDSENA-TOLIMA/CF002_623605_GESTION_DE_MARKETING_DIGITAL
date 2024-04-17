@@ -117,11 +117,11 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.desktop
         figure
-          img(src='@/assets/curso/temas/tema1/img14.svg', alt='Alrededor del SOA, se presentan 4 grandes áreas: Sistema, Plataforma, Procesos y Personas. Estas se integran de la siguiente forma: Sistema, es la entrada del proceso, de donde se canaliza mediante; La Plataforma: que contiene el Servicio, y la Práctica Los Procesos: correspondiente con la integración y la Arquitectura. Y finaliza en las Personas: o los clientes que reciben el servicio.') 
+          img(src='@/assets/curso/temas/tema1/img14.svg', alt='En la figura 1 se muestra un ejemplo de un mapa de experiencia del cliente, como se descrebe a continución.') 
           figcaption Nota. 5 ejemplos de cómo crear un #[i Customer Journey] Map efectivo. Rojas (2017).
       .col-lg-12.movil
         figure
-          img(src="@/assets/curso/temas/tema1/img14_1.svg", alt="Alrededor del SOA, se presentan 4 grandes áreas: Sistema, Plataforma, Procesos y Personas. Estas se integran de la siguiente forma: Sistema, es la entrada del proceso, de donde se canaliza mediante; La Plataforma: que contiene el Servicio, y la Práctica Los Procesos: correspondiente con la integración y la Arquitectura. Y finaliza en las Personas: o los clientes que reciben el servicio.")
+          img(src="@/assets/curso/temas/tema1/img14_1.svg", alt="En la figura 1 se muestra un ejemplo de un mapa de experiencia del cliente, como se descrebe a continución.")
           figcaption Nota. 5 ejemplos de cómo crear un #[i Customer Journey] Map efectivo. Rojas (2017).
     
     .titulo-sexto.color-acento-contenido.offset-1
@@ -233,7 +233,7 @@
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema1/img29.svg' alt='AvatarTop')
           .col-12
-            p.text-center Poder evaluar el retorno de la inversión (ROI) de futuras inversiones en la Experiencia del usuario y del cliente.
+            p.text-center Poder evaluar el retorno de la inversión (ROI) de futuras inversiones en la experiencia del usuario y del cliente.
     .row.align-items-center.mb-4
       .col-auto.pe-0.desktop(style="z-index:2")
         figure
@@ -404,11 +404,11 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.desktop
         figure
-          img(src='@/assets/curso/temas/tema1/img45.svg', alt='En la figura 3 se muestran los 8 pasos para construir una estrategia de comunicación, inicia con el análisis y termina con el monitoreo y evaluación.')
+          img(src='@/assets/curso/temas/tema1/img45.svg', alt='En la figura 3 se muestran los 8 pasos para construir una estrategia de comunicación, inicia con el análisis y termina con el monitoreo y evaluación, se describe a continuación.')
           figcaption Nota. Imagen adaptada de 8 pasos para construir una Estrategia de Comunicación. Viñas (2016).
       .col-lg-12.movil
         figure
-          img(src="@/assets/curso/temas/tema1/img45_1.svg", alt="En la figura 3 se muestran los 8 pasos para construir una estrategia de comunicación, inicia con el análisis y termina con el monitoreo y evaluación.")
+          img(src="@/assets/curso/temas/tema1/img45_1.svg", alt="En la figura 3 se muestran los 8 pasos para construir una estrategia de comunicación, inicia con el análisis y termina con el monitoreo y evaluación, se describe a continuación.")
           figcaption Nota. Imagen adaptada de 8 pasos para construir una Estrategia de Comunicación. Viñas (2016).
     
     .tarjeta.tarjeta--azul.colorcol1.p-4.mb-5
