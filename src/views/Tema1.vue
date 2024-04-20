@@ -19,10 +19,10 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12.desktop(data-aos="zoom-in")
         figure        
-          img(src='@/assets/curso/temas/tema1/img2.svg', alt='Se revelan 5 preguntas: 1- ¿Qué muestra el análisis DOFA? 2- ¿En qué áreas se encuentra y en qué áreas desea estar la empresa? 3- ¿Hay recursos suficientes para lograr los objetivos trazados? 4- ¿Los objetivos son realistas y se pueden alcanzar? 5- ¿Temporalmente cuál es el límite para alcanzarlos? ')
+          img(src='@/assets/curso/temas/tema1/img2.svg', alt='La imagen describe los siguientes pasos: •	Cuando el cliente se informa sobre el producto. •	En la asesoría. •	En la compra. •	Al usuario. •	En el servicio postventa. •	Incluso cuando se baja del servicio.')
     .col-lg-12.movil(data-aos="zoom-in")
       figure
-        img(src='@/assets/curso/temas/tema1/img2_1.svg', alt='Se revelan 5 preguntas: 1- ¿Qué muestra el análisis DOFA? 2- ¿En qué áreas se encuentra y en qué áreas desea estar la empresa? 3- ¿Hay recursos suficientes para lograr los objetivos trazados? 4- ¿Los objetivos son realistas y se pueden alcanzar? 5- ¿Temporalmente cuál es el límite para alcanzarlos? ')
+        img(src='@/assets/curso/temas/tema1/img2_1.svg', alt='La imagen describe los siguientes pasos: •	Cuando el cliente se informa sobre el producto. •	En la asesoría. •	En la compra. •	Al usuario. •	En el servicio postventa. •	Incluso cuando se baja del servicio.')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="zoom-in-right")
@@ -115,13 +115,10 @@
       span  #[i  Mapa de experiencia]
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10.desktop
+      .col-lg-10
         figure
-          img(src='@/assets/curso/temas/tema1/img14.svg', alt='En la figura 1 se muestra un ejemplo de un mapa de experiencia del cliente, como se descrebe a continución.') 
-          figcaption Nota. 5 ejemplos de cómo crear un #[i Customer Journey] Map efectivo. Rojas (2017).
-      .col-lg-12.movil
-        figure
-          img(src="@/assets/curso/temas/tema1/img14_1.svg", alt="En la figura 1 se muestra un ejemplo de un mapa de experiencia del cliente, como se descrebe a continución.")
+          img.d-lg-flex.d-none(src='@/assets/curso/temas/tema1/img14.svg', alt='Muestra un ejemplo de un mapa de experiencia del cliente, como se describe a continuación. Pre - Venta (Positiva: motivación y atracción, Neutral: experiencias de compra pasadas, Negativa: compara mi producto).  Venta (Positiva: Selección de producto, Negativa: Medios de pago). Post-Venta(Positiva: Recepción de producto, Neutral: Decisión de compra).') 
+          img.d-lg-none.d-flex(src="@/assets/curso/temas/tema1/img14_1.svg", alt="Muestra un ejemplo de un mapa de experiencia del cliente, como se describe a continuación. Pre - Venta (Positiva: motivación y atracción, Neutral: experiencias de compra pasadas, Negativa: compara mi producto).  Venta (Positiva: Selección de producto, Negativa: Medios de pago). Post-Venta(Positiva: Recepción de producto, Neutral: Decisión de compra).")
           figcaption Nota. 5 ejemplos de cómo crear un #[i Customer Journey] Map efectivo. Rojas (2017).
     
     .titulo-sexto.color-acento-contenido.offset-1
@@ -402,13 +399,10 @@
       span  #[i  8 pasos para construir una estrategia de comunicación]
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10.desktop
+      .col-lg-10
         figure
-          img(src='@/assets/curso/temas/tema1/img45.svg', alt='En la figura 3 se muestran los 8 pasos para construir una estrategia de comunicación, inicia con el análisis y termina con el monitoreo y evaluación, se describe a continuación.')
-          figcaption Nota. Imagen adaptada de 8 pasos para construir una Estrategia de Comunicación. Viñas (2016).
-      .col-lg-12.movil
-        figure
-          img(src="@/assets/curso/temas/tema1/img45_1.svg", alt="En la figura 3 se muestran los 8 pasos para construir una estrategia de comunicación, inicia con el análisis y termina con el monitoreo y evaluación, se describe a continuación.")
+          img.d-lg-flex.d-none(src='@/assets/curso/temas/tema1/img45.svg', alt='Muestran los 8 pasos para construir una estrategia de comunicación, se describe a continuación: Paso 1: Análisis del contexto. Paso 2: Modelo de Comunicación. Paso 3: Roles y Responsabilidades. Paso 4: Audiencias y Públicos. Paso 5: Lineamientos. Paso 6: Resultados. Paso 7: Tácticas y Acciones. Paso 8: Monitoreo y Evaluación.')
+          img.d-lg-none.d-flex(src="@/assets/curso/temas/tema1/img45_1.svg", alt="Muestran los 8 pasos para construir una estrategia de comunicación, se describe a continuación: Paso 1: Análisis del contexto. Paso 2: Modelo de Comunicación. Paso 3: Roles y Responsabilidades. Paso 4: Audiencias y Públicos. Paso 5: Lineamientos. Paso 6: Resultados. Paso 7: Tácticas y Acciones. Paso 8: Monitoreo y Evaluación.")
           figcaption Nota. Imagen adaptada de 8 pasos para construir una Estrategia de Comunicación. Viñas (2016).
     
     .tarjeta.tarjeta--azul.colorcol1.p-4.mb-5

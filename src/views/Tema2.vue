@@ -109,7 +109,7 @@
               p #[b Consultar todas las fuentes]: a través de internet o también en tiendas o sedes presenciales. En las bases de datos se pueden encontrar más datos de importancia y detalles sobre la situación personal de los clientes. Ayuda a hacer una mejor definición de los individuos que se interesan en el producto.
               p #[b Contrastar con el equipo de ventas]: es fundamental que el equipo de #[em marketing] y el departamento de ventas estén en constante comunicación y colaboración. Ambos equipos deben trabajar en armonía y alineados hacia el mismo objetivo. La coordinación entre estos dos departamentos es esencial para asegurar el éxito de cualquier proyecto. La interacción directa entre los miembros de ambos equipos no solo facilita la transferencia de información relevante, sino que también agrega un valor significativo a la experiencia del cliente. El contacto humano y la colaboración estrecha entre el #[em marketing] y las ventas pueden marcar la diferencia en la efectividad y el rendimiento general de la empresa.
               p #[b #[i Master] en #[i traffic marketing]]: SEO, SEM, atracción y contenidos. Áreas en las que los empleados (estrategas o especialistas de mercadeo) deber ser expertos. Liderar el desarrollo de estrategias que deben dar respuesta a los indicadores y análisis generados, responder con lo que el cliente espera. demás datos que se pueda obtener.
-              p #[b Buscar externamente]: también se pueden obtener datos de otras fuentes externas como grupos de LinkedIn o demás redes sociales, incluso #[i blogs], #[i webinars] o demás recursos digitales donde pueda pasar más tiempo el cliente. Si la empresa es nueva y aún no posee clientes, se sugiere visitar el sitio #[i web], redes sociales y blog de la competencia para hacer una investigación sobre las personas que en ellas participa. Es importante apuntar qué desean, qué marcas o personas siguen y qué comparten con sus contactos.
+              p #[b Buscar externamente]: también se pueden obtener datos de otras fuentes externas como grupos de LinkedIn o demás redes sociales, incluso #[i blogs], #[i webinars] o demás recursos digitales donde pueda pasar más tiempo el cliente. Si la empresa es nueva y aún no posee clientes, se sugiere visitar el sitio #[i web], redes sociales y #[em blog ]de la competencia para hacer una investigación sobre las personas que en ellas participa. Es importante apuntar qué desean, qué marcas o personas siguen y qué comparten con sus contactos.
 
 
       .row(titulo="Paso 3: Construir el <em>Buyer</em> Persona")
@@ -132,9 +132,7 @@
           figure
             img(src='@/assets/curso/temas/tema2/img14.jpg', alt='Imagen decorativa')
 
-    Separador
-    .row
-      .col-xl-12       
+    Separador    
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 2.1 Tipos de perfiles
     
@@ -181,9 +179,7 @@
                   img(src="@/assets/curso/temas/tema2/img17_1.png", alt="alt") 
             p.mb-0 Prototipo de individuo que no encarnan a los clientes inmediatos de los productos actuales de la marca, pero que en algún momento se pueden sentir atraídos por los contenidos o campañas publicitarias. También se puede tratar de prototipos de individuos que sí compran el producto, pero, no lo vuelven a hacer (porque no los satisfizo, porque no tuvieron una buena asesoría o servicio) y, por lo tanto, no entregan rentabilidad a la empresa. Se les puede conocer como "anti-#[i Buyer] Persona".
 
-    Separador
-    .row
-      .col-xl-12       
+    Separador  
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 2.2 Elaboración de arquetipos
     .row.justify-content-center.align-items-center.mb-5
